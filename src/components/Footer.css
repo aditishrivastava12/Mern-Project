@@ -1,0 +1,21 @@
+footer {
+    background-color: #646cff;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.footer-brand {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.footer-brand a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-copyright {
+    margin-top: 1rem;
+    font-size: 0.875rem;
+    color: white;
+}
